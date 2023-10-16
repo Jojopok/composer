@@ -1,0 +1,16 @@
+{
+    "name": "wild/app",
+    "description": "Wild composer quest",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "wilderName"
+            
+        }
+    ],
+    "require": {}
+}
